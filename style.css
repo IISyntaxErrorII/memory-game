@@ -63,7 +63,7 @@ body{
     background-color: gray;
     padding: 10px;
     border-radius: 20px;
-    height: 80vh;
+    height: 90vh;
     width: 80vw;
 }
 .header{
@@ -72,7 +72,6 @@ body{
     gap: 40px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
-    padding-bottom: 20px;
 }
 .game-box{
     background-color: rgb(37, 37, 46);
